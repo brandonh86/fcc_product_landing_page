@@ -1,0 +1,1 @@
+Second attempt at the FreeCodeCamp Product Landing Page project.
